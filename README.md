@@ -1,5 +1,7 @@
 # ECMAScript proposal: Top-level `await`
 
+![Stage 3](https://badges.aleen42.com/src/tc39_4.svg)
+
 Champions: Myles Borins, Yulia Startsev.
 
 Authors: Myles Borins, Yulia Startsev, Daniel Ehrenberg, Guy Bedford, Ms2ger, and others.
